@@ -1,0 +1,101 @@
+﻿  01배열과문자열1.c
+  01배열과문자열2.c
+E:\Data\Data\01배열과문자열2.c(23,13): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  01배열과문자열3.c
+  02배열과포인터1.c
+  02배열과포인터2.c
+  02배열과포인터3.c
+  02배열과포인터4.c
+  02포인터1.c
+  02포인터2.c
+  03구조체.c
+  04동적할당.c
+  ArrayList.c
+E:\Data\Data\ArrayList.c(42,10): warning C4033: 'Search'은(는) 값을 반환해야 합니다.
+E:\Data\Data\ArrayList.c(48,8): warning C4033: 'Search'은(는) 값을 반환해야 합니다.
+E:\Data\Data\ArrayList.c(78,10): warning C4033: 'Remove'은(는) 값을 반환해야 합니다.
+E:\Data\Data\ArrayList.c(84,8): warning C4033: 'Remove'은(는) 값을 반환해야 합니다.
+  baseball_F.c
+E:\Data\Data\baseball_F.c(11,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+E:\Data\Data\baseball_F.c(39,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 'scanf' 선언을 참조하십시오.
+  ex2-1.c
+E:\Data\Data\ex2-1.c(8,8): warning C4101: 'f' :참조되지 않은 지역 변수입니다.
+E:\Data\Data\ex2-1.c(7,8): warning C4101: 's' :참조되지 않은 지역 변수입니다.
+E:\Data\Data\ex2-1.c(9,7): warning C4101: 'l' :참조되지 않은 지역 변수입니다.
+E:\Data\Data\ex2-1.c(6,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+E:\Data\Data\ex2-1.c(5,7): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  ex2-12.c
+  ex2-13.c
+  ex2-14.c
+  ex2-2.c
+  ex2-3.c
+  ex2-4.c
+  코드를 생성하고 있습니다...
+E:\Data\Data\ex2-14.c(18): warning C4716: 'dan': 값을 반환해야 합니다.
+E:\Data\Data\ArrayList.c(49): warning C4716: 'Search': 값을 반환해야 합니다.
+E:\Data\Data\ArrayList.c(86): warning C4716: 'Remove': 값을 반환해야 합니다.
+  컴파일하고 있습니다...
+  ex2-5.c
+  ex2-8.c
+  ex2-9.c
+E:\Data\Data\ex2-9.c(8,9): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+E:\Data\Data\ex2-9.c(6,1): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'char (*)[18]'과(와) 다릅니다.
+  01배열기본.c
+  factorial.c
+E:\Data\Data\factorial.c(11,68): warning C4013: 'factorial'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  listNode.c
+  snake_F.c
+E:\Data\Data\snake_F.c(49,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+E:\Data\Data\snake_F.c(82,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+E:\Data\Data\snake_F.c(102,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+E:\Data\Data\snake_F.c(103,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+E:\Data\Data\snake_F.c(120,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+E:\Data\Data\snake_F.c(136,12): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+E:\Data\Data\snake_F.c(195,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+E:\Data\Data\snake_F.c(198,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+E:\Data\Data\snake_F.c(219,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+E:\Data\Data\snake_F.c(220,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+  tetris_F.c
+E:\Data\Data\tetris_F.c(164,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+E:\Data\Data\tetris_F.c(172,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+E:\Data\Data\tetris_F.c(178,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 'fopen' 선언을 참조하십시오.
+E:\Data\Data\tetris_F.c(181,1): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1197): message : 'fscanf' 선언을 참조하십시오.
+E:\Data\Data\tetris_F.c(328,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+E:\Data\Data\tetris_F.c(329,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+E:\Data\Data\tetris_F.c(331,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+E:\Data\Data\tetris_F.c(367,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+E:\Data\Data\tetris_F.c(608,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 'fopen' 선언을 참조하십시오.
+E:\Data\Data\tetris_F.c(622,1): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 'kbhit' 선언을 참조하십시오.
+E:\Data\Data\tetris_F.c(623,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+E:\Data\Data\tetris_F.c(645,1): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(453): message : 'getch' 선언을 참조하십시오.
+  순차탐색.c
+  이진탐색.c
+  이진탐색알고리즘재귀.c
+  피보나치.c
+  하노이타워.c
+  코드를 생성하고 있습니다...
+E:\Data\Data\listNode.c(62): warning C4716: 'searchNode': 값을 반환해야 합니다.
+E:\Data\Data\factorial.c(21): warning C4716: 'fact': 값을 반환해야 합니다.
